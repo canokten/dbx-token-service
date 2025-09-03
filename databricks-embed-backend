@@ -1,4 +1,1 @@
-dbx-token-service/
-  api/
-    databricks-token.js
-  README.md
+api/databricks-token.js
